@@ -9,8 +9,11 @@ These Python scripts allow you to narrate a .txt file into a .wav file with a di
 The story must be formatted in the following manner:
 
 Char1:: Bla bla bla.
+
 Char2:: Bla bla Char3.
+
 Char1:: Bla bla bla.
+
 Char3:: Char1 bla bla.
 
 ## Instructions
