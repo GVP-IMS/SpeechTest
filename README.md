@@ -14,13 +14,13 @@ Char2:: Bla bla Char3.
 
 Char1:: Bla bla bla.
 
-Char3:: Char1 bla bla.
+Char3:: Char1, bla bla.
 
 ## Instructions
 
 - Make sure all project files are in the same directory, including your story. This is also where the output will be generated.
 - Install the packages in requirements.txt using pip or conda.
-- Spacy requires additional data based on your prefered language to recognize the names of voice banks and use them as character names. For English, use "python -m spacy download en_core_web_sm". Check https://spacy.io/usage for more info.
+- Spacy requires additional data based on your prefered language to recognize the names of voice banks and use them as character names. For English, use "python -m spacy download en_core_web_sm". Check [the install page](https://spacy.io/usage) for more info. 
 - Run main.py
 - Input the options based on the prompts. Make sure the number of characters does not exceed the number of voice banks on your system.
 
@@ -34,6 +34,6 @@ The default Wave library is used to concatenate the individual lines of the stor
 
 ## References
 
-- Pyttsx3: https://github.com/nateshmbhat/pyttsx3
-- Spacy: https://spacy.io/
-- Wave concatenation code: https://stackoverflow.com/a/2900266
+- [Pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+- [Spacy](https://spacy.io)
+- [Wave concatenation code](https://stackoverflow.com/a/2900266)
