@@ -1,0 +1,9 @@
+Char1:: Char2, are you alright? You're talking a mile a minute!
+Char2:: I got hit with that crazy beam from the lab. I can't seem to slow down!
+Char1:: Don't worry, I've got just the thing! Drink this potion made of turbocharged snail slime. It'll recalibrate your speech circuits.
+Char2:: Turbocharged snail slime? Are you serious?
+Char1:: Absolutely! Trust me, I read it in a scientific journal once. Works like a charm!
+Char2:: Alright, bottoms up!
+Char1:: How do you feel now? Any improvement?
+Char2:: Actually, I think it's working! I feel like I'm back to normal speed. Thanks Char1!
+Char1:: No problem Char2. And try not to get hit by any more crazy beams.
