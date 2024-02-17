@@ -2,7 +2,7 @@
 
 ## Overview
 
-These Python scripts allow you to narrate a .txt file into a .wav file with a different voice for each character by assigning them a name and a voice based on your system's available ones.
+This Python script allows you to narrate a .txt file into a .wav file with a different voice for each character by assigning them a name and a voice based on your system's available ones.
 
 ## Story Requirements
 
