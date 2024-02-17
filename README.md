@@ -19,7 +19,7 @@ Char3:: Char1 bla bla.
 ## Instructions
 
 - Make sure all project files are in the same directory, including your story. This is also where the output will be generated.
-- Install the necessary packages in requirements.txt using pip or conda.
+- Install the packages in requirements.txt using pip or conda.
 - Spacy requires additional data based on your prefered language to recognize the names of voice banks and use them as character names. For English, use "python -m spacy download en_core_web_sm". Check https://spacy.io/usage for more info.
 - Run main.py
 - Input the options based on the prompts. Make sure the number of characters does not exceed the number of voice banks on your system.
