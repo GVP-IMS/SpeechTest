@@ -27,7 +27,9 @@ Char3:: Char1 bla bla.
 ## Implementation Details
 
 Pyttsx3 is used for voice synthesis. Though limited in options, it's easy to setup, lightweight, and can be run offline since it relies on your system, which also determines the voice fidelity.
+
 Spacy is used for named entity recognition.
+
 The default Wave library is used to concatenate the individual lines of the story into the final output.
 
 ## References
