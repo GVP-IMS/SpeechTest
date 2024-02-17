@@ -9,8 +9,6 @@ import spacy
 current_dir = os.getcwd()
 line_dir = os.path.join(current_dir, 'lines')
 
-
-
 # Record each speaker's lines
 def get_lines(char_count, story_file_name, special="No"):
 
